@@ -1,4 +1,11 @@
-### Hi there 👋
+# Guilherme Cavalcanti da Silva
+### Hi there, I'm a Software Developer in Ireland. Welcome to my little corner on GitHub. 👋
+
+### :computer: Technologies
+- Programing languages: JavaScript, Typescript and Java
+- Front-End: ReactJS, HTML and CSS
+- Back-End: NodeJS, Express and Spring Boot
+- Mobile: Android, React-Native
 
 <!--
 **GuilCavalcanti/GuilCavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
